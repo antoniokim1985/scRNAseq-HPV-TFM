@@ -20,9 +20,10 @@
   Venn: documentación y código utilizado para realizar los diagramas de Venn.
   
   D. RAW
-  Directorio en donde irán los archivos crudos
+  Directorio en donde irán los archivos crudos.
   
-
+  E. gene_research
+  En este directorio se almacenan archivos con datos de investigación gen por gen con índice bibliográfico incluido.
 
 ### 2. Requerimientos previos
 
